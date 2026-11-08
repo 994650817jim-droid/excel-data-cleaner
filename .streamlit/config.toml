@@ -1,0 +1,9 @@
+[server]
+# Uploads are held in memory; Streamlit Community Cloud has roughly 1 GB of RAM.
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2563eb"
